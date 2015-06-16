@@ -39,6 +39,6 @@ public class EstudianteClase extends PersonaClase {
     @Override
     public String toString() {
         return super.toString()
-                +"\nFichaAcademica"+FichaAcademica+"\nCarrera"+Carrera;
+                +"\nFichaAcademica: "+FichaAcademica+"\nCarrera: "+Carrera;
     }
 }

@@ -41,6 +41,6 @@ public class ProfesorClase extends PersonaClase {
     @Override
     public String toString() {
         return super.toString() 
-        +"\nProfesion"+profesion+"\nAños de Experiencia"+AniosXp;
+        +"\nProfesion: "+profesion+"\nAños de Experiencia: "+AniosXp;
     }
 }
